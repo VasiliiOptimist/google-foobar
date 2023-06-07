@@ -1,2 +1,2 @@
 # foobar
-The tasked solved by me during the Google Foo Bar challenge
+The taskes solved by me during the Google Foo Bar challenge
